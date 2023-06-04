@@ -1,6 +1,8 @@
 # Password-Generator
 Un générateur de mots de passe écrit en Python.
 
+![6ee5d18dfb866d1597a18672968b7d98](https://github.com/th3k3y/Password-Generator/assets/49789253/3c86d701-9dcb-4d48-958a-8d2a7c6fe9c5)
+
 # Générateur de Mots de Passe
 
 Un simple générateur de mots de passe avec une interface graphique intuitive.
