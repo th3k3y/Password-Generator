@@ -39,13 +39,3 @@ Suivez les indications sur l'interface utilisateur pour générer votre mot de p
 ## Contribution
 
 Les contributions, problèmes et demandes de fonctionnalités sont les bienvenus.
-
-## Licence
-
-Ce projet est sous licence MIT - voir le fichier [LICENCE](LICENSE) pour plus de détails. 
-
-## Contact
-
-Si vous avez des questions, n'hésitez pas à me contacter à [VotreEmail]@mail.com
-
-Merci d'utiliser ou de contribuer à ce projet !
